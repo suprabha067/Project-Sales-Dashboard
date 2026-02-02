@@ -1,14 +1,21 @@
 # Product-Sales-Dashboard
+Product Sales Dashboards - Internship Project
 
-This repository contains a Power BI dashboard built using a structured dataset to analyze and visualize key insights. The project demonstrates skills in data cleaning, transformation, and visualization to provide an interactive and user-friendly reporting experience. This project highlights my ability to transform raw data into actionable insights using Power BI.
+This repository contains the documentation and insights from my 1-month internship as a "Data Science Trainee Intern" at "SoftCrowd Technologies". The project focuses on the development of "Product Sales Dashboards" to improve data-driven decision-making processes.
 
-To build effective reports in Power BI, it is essential to understand the three primary panes used to manipulate data and visuals.
-1. Visualization Pane:
-The small icons show the different types of visualizations you can create. If you start building a visualization by selecting fields without selecting a visualization type first, Power BI picks the visualization type for you. You can keep Power BI's selection, or change the type by selecting a different icon.
+Project Overview-
+The primary goal of this project was to transform raw sales data into interactive and meaningful visualizations. During the internship, I explored various data tools to analyze order preferences, handle data errors, and create comprehensive reports.
 
-2. Filter Pane:  
-Use the Filters pane to view, set, and modify persistent filters to your reports at the page, report, drill-through, and visual-level. Yes, you can do ad-hoc filtering on report pages and visuals by selecting elements of the visuals or by using tools like slicers. Filtering in the Filters pane has the advantage that the state of the filters is saved with the report. 
+  Visualizations Implemented-
+    The project includes a variety of analytical charts to provide deep insights, such as:
+      -Trend Analysis: Line, Area, and Stacked Column Charts.
+      -Distribution & Comparison: Pie, Donut, Funnel, and Ribbon Charts.
+      -Geographic Insights: Map-based visualizations.
+      -Advanced Metrics: Gauge and Scatter Charts.
 
-3. Field Pane  
-The Fields pane displays the tables, folders, and fields in your data that are available for you to use to create visualizations. Drag a field onto the page to start a new visualization. You can also drag a field onto an existing visualization to add the field to that visualization. When you add a checkmark next to a field, Power BI adds that field to the active or new visualization. It also decides which bucket to place that field into.
+  To build effective reports in Power BI, it is essential to understand the three primary panes used to manipulate data and visuals.
+      1. Visualization Pane: Used to select and customize chart types. Power BI provides automatic suggestions, which can be manually overridden.
+      2. Filter Pane: Applied to set persistent filters at the visual, page, or report level to ensure data accuracy.
+      3. Fields Pane: Used to manage data tables and folders, allowing for efficient drag-and-drop visualization building.
+
 
