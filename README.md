@@ -8,9 +8,13 @@ The primary goal of this project was to transform raw sales data into interactiv
 
 Visualizations Implemented-
 The project includes a variety of analytical charts to provide deep insights, such as:
+
 -Trend Analysis: Line, Area, and Stacked Column Charts.
+
 -Distribution & Comparison: Pie, Donut, Funnel, and Ribbon Charts.
+
 -Geographic Insights: Map-based visualizations.
+
 -Advanced Metrics: Gauge and Scatter Charts.
 
 To build effective reports in Power BI, it is essential to understand the three primary panes used to manipulate data and visuals.
